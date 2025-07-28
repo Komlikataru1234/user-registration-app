@@ -50,7 +50,7 @@ user-registration-app-main/
 ### 📥 Installation
 
 ```bash
-git clone https://github.com/your-username/user-registration-app.git
+git clone https://github.com/Koomlikataru1234/user-registration-app.git
 cd user-registration-app-main
 npm install
 ```
